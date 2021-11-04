@@ -21,4 +21,4 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaiyapatoam&show_icons=true&theme=radical)](https://github.com/chaiyapatoam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berubell9&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
