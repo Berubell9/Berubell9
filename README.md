@@ -2,7 +2,7 @@
 
 #### About Me
 - 🪐 Nawamintrachinuthit Benjamarachalai School
-- ✨ I’m interested in Software developer.
+- ✨ I’m interested in Software develoment.
 
 #### Programming Languages
 <p align="left"> 
