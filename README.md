@@ -1,7 +1,7 @@
 <h3 align="center"> 👋 Hello World, I’m Kornkamol Saengsawang </h3>
 
 #### About Me
-- 🪐 Nawamintrachinuthit Benjamarachalai School
+- 🪐 KMITL CS 28
 - ✨ I’m interested in Software develoment.
 
 #### Programming Languages
