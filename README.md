@@ -1,4 +1,4 @@
-<h3 align="center"> 👋 Hello World, I’m Kornkamol </h3>
+<h3 align="center"> 👋 Hello World, I’m Kornkamol Saengsawang</h3>
 
 #### About Me
-- 🪐 KMITL CS 28
+I’m interested in full-stack development, DevOps, and AI-related applications, and I enjoy building web systems that solve real-world problems. This GitHub contains some of my projects, experiments, and learning journey in software development.
